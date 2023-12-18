@@ -1,7 +1,7 @@
 # Belly Button Biodiversity Dashboard
 
 ## Description
-This project involves building an interactive dashboard to explore the Belly Button Biodiversity dataset, cataloging microbes that colonize human navels. The dataset reveals prevalent microbial species, known as operational taxonomic units (OTUs), in more than 70% of individuals.
+This project involves building an interactive dashboard to explore the Belly Button Biodiversity dataset, cataloging microbes that colonize human navels. The dataset reveals prevalent microbial species, known as operational taxonomic units (OTUs), in individuals.
 
 ## Components
 
